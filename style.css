@@ -127,12 +127,16 @@ footer{
     padding-bottom: 100px;
 }
 .foot {
+    color: white;
     width: 50%;
     margin: auto;
     text-align: center;
     padding-top: 20px;
 }
-.foot span {
+.foot{
+    
+}
+.foot p{
     color: white;
     font-size: 21px;
 }
