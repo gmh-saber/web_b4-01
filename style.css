@@ -17,9 +17,10 @@ header{
     width: 50%;
 }
 .half-cont img{
-    width: 70%;
+    width: 80%;
 }
 #img-cent{
+    margin-top: 10px;
     display: grid;
     place-items: center;
 }
@@ -37,6 +38,7 @@ header{
     color:#575757;
     font-size: 21px;
     padding-bottom: 90px;
+    padding-top: 60px;
 }
 #order-button{
     text-decoration: none;
